@@ -68,6 +68,7 @@ Project Participants
 * Stephen Schaefer
 * Tim Larson
 * Basil Baby A
+* Michael Davis
 * Robin Small
 * Ryan M
 * Thao Bui
